@@ -36,8 +36,14 @@ Saat ini, saya sedang mengembangkan sistem klasifikasi motif berbasis *Deep Lear
 
 ## 📈 Statistik GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReinhardBatubara&hide=issues&show_icons=true&title_color=687EFF&icon_color=687EFF)](https://github.com/ReinhardBatubara)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinhardBatubara&layout=compact&title_color=687EFF)](https://github.com/ReinhardBatubara)
+<p align="center">
+  <a href="https://github.com/ReinhardBatubara">
+    <img src="https://github-readme-stats.vercel.app/api?username=ReinhardBatubara&hide=issues&show_icons=true&title_color=687EFF&icon_color=687EFF" alt="Reinhard's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ReinhardBatubara">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinhardBatubara&layout=compact&title_color=687EFF" alt="Bahasa yang Paling Banyak Digunakan" />
+  </a>
+</p>
 
 ---
 
