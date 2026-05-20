@@ -175,19 +175,6 @@ Through this role, I helped students strengthen their logical thinking, programm
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ReinhardBatubara&show_icons=true&title_color=687EFF&icon_color=687EFF&text_color=333333&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinhardBatubara&layout=compact&title_color=687EFF&text_color=333333&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReinhardBatubara&theme=default&hide_border=true&ring=687EFF&fire=687EFF&currStreakLabel=687EFF" />
-</p>
-
----
-
 ## 🌱 What I Value
 
 - Clean and maintainable code  
